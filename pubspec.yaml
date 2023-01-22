@@ -1,0 +1,31 @@
+name: raj_resturant
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter:
+    sdk: flutter
+  dio: ^4.0.6
+  flutter_screenutil: ^5.5.4
+  flutter_svg: ^1.1.5
+  shared_preferences: ^2.0.15
+  carousel_slider: ^4.1.1
+  badges: ^2.0.3
+  flutter_zoom_drawer: ^3.0.3
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/langs/
+    - assets/svg/
