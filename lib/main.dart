@@ -29,6 +29,7 @@ void main() {
               visualDensity: VisualDensity.adaptivePlatformDensity,
             ),
             locale: Get.deviceLocale,
+            fallbackLocale: const Locale('en', 'US'),
             getPages: AppPages.routes,
           );
         }),
