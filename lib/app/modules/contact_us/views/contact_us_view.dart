@@ -44,7 +44,7 @@ class ContactUsView extends GetView<ContactUsController> {
               flex: 3,
             ),
             PrimaryText(
-              "Follow Us",
+              LocaleKeys.text_follow_us.tr,
               fontSize: 16.sp,
             ),
             SizedBox(

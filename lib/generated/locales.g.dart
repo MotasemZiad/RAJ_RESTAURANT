@@ -254,7 +254,7 @@ class Locales {
     'text_categories': 'Categories',
     'text_popular': 'Most Popular',
     'text_main_meals': 'Main Meals',
-    'text_follow_us': 'Follow us',
+    'text_follow_us': 'تابعنا',
     'text_other_meals': 'Other Meals',
     'text_quantity': 'Quantity',
     'text_total': 'Total',
