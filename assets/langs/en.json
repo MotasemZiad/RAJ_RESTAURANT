@@ -83,7 +83,8 @@
         "invalid_email": "Invalid Email!",
         "invalid_phone": "Invalid Phone Number!",
         "pieces": "Pieces",
-        "piece": "Piece"
+        "piece": "Piece",
+        "follow_us": "تابعنا"
     },
     "text_fields": {
         "phone": "Phone number",

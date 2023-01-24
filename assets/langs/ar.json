@@ -82,7 +82,8 @@
         "invalid_email": "البريد الإلكتروني غير صالح",
         "invalid_phone": "رقم الهاتف غير صالح",
         "pieces": "قطعة",
-        "piece": "قطعة"
+        "piece": "قطعة",
+        "follow_us": "تابعنا"
     },
     "text_fields": {
         "phone": "رقم الهاتف",
