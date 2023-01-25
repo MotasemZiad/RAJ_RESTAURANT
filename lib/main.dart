@@ -30,6 +30,7 @@ void main() {
             ),
             locale: Get.deviceLocale,
             fallbackLocale: const Locale('en', 'US'),
+            debugShowMaterialGrid: false,
             getPages: AppPages.routes,
           );
         }),
