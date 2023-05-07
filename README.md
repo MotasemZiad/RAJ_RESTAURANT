@@ -1,5 +1,8 @@
 # RAJ RESTAURANT
 
+An amazing mobile app created with [Flutter](https://flutter.dev) which is a an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
+
+
 ## Screenshot: 
 
 ![raj_restaurant](https://user-images.githubusercontent.com/52855540/236669657-96c0c5a2-6c0b-4f9f-96fe-a68c6385bcfd.jpg)
