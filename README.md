@@ -1,6 +1,11 @@
-# raj_resturant
+# RAJ RESTAURANT
 
-A new Flutter project.
+## Screenshot: 
+
+![raj_restaurant](https://user-images.githubusercontent.com/52855540/236669657-96c0c5a2-6c0b-4f9f-96fe-a68c6385bcfd.jpg)
+
+
+
 
 ## Getting Started
 
